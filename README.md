@@ -17,5 +17,5 @@
 <br>
 
 ### 토이프로젝트
-   - ['Image TAG PARSING WindowsServer C++']
+   - [`Image TAG PARSING WindowsServer C++`]
 <br>
