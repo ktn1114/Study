@@ -1,7 +1,7 @@
 #  STUDY 
 
 ### 📝 기초
-   - ['WinApi32'](https://github.com/ktn1114/Study/ 
+   - ['WinApi32'](https://github.com/ktn1114/Study/)
    - 운영체제
    - 알고리즘
    - 자료구조
