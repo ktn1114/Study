@@ -6,7 +6,7 @@
 <br>
 
 ### 📗 도서 목록
-   - [`API 정복 1,2`](https://github.com/ktn1114/Study/WinAPI)
+   - [`API 정복 1,2`](https://github.com/ktn1114/Study/tree/master/WinAPI)
    - [`코딩테스트를 위한 자료구조와 알고리즘 with C++`]
    - [`STL 14 철저입문`]
 <br>
