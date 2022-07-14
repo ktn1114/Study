@@ -17,6 +17,6 @@
 <br>
 
 ### 토이프로젝트
-   - [`Image TAG PARSING WindowsServer C++`]
-   - [`업무 협업 tool WindowsApplication C#`]
+   - [`Image Tag Pasing WindowsServer`]
+   - [`업무 협업 tool WindowsApplication`]
 <br>
